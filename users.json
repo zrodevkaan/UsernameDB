@@ -1,0 +1,7 @@
+{
+    "801089753038061669": {
+        fontId: 12,
+            effectId: EffectIDs.NEON,
+                colors: [16755404, 15961000]
+    }
+};
