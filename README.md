@@ -4,12 +4,10 @@ A Plugin database for a BetterDiscord plugin.
 
 PR your Discord Account ID in this format
 ```json
-{
-  "userId": {
-    "fontId": 12,
-    "effectId": 3,
-    "colors": [16755404, 15961000]
-  }
+"userId": {
+  "fontId": 12,
+  "effectId": 3,
+  "colors": [16755404, 15961000]
 }
 ```
 
